@@ -1,3 +1,7 @@
+body {
+    margin: 100px;
+    text-align: center;
+}
 @font-face {
     src: url("no-mercy.ttf");
     font-family: no-mercy;
