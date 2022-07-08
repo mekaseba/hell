@@ -1,0 +1,7 @@
+@font-face {
+    src: url("no-mercy.ttf");
+    font-family: no-mercy;
+}
+h1 {
+    font-family: no-mercy;
+}
